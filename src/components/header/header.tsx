@@ -13,7 +13,7 @@ export const Header: React.FC<Props> = (props) => {
   const { className } = props;
   // barev Shant jan
   const t = useTranslations();
-
+  // inchka Laves
   return (
     <>
       <p className="text-center px-4 py-0.5">{t("deliveryText")}</p>
