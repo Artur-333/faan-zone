@@ -1,0 +1,93 @@
+{
+  "deliveryText": "Անվճար առաքում Երեւանում",
+  "signOut": "Դուրս գալ",
+  "links": {
+    "home": "Գլխավոր",
+    "about": "Մեր մասին",
+    "partnerShops": "Գործընկերների խանութներ",
+    "transportYerevan": "Տրանսպորտ Երեւան",
+    "taxi": "Տաքսի",
+    "blog": "Բլոգ",
+    "contact": "Կապ"
+  },
+  "languages": {
+    "armenian": "Հայերեն",
+    "english": "Անգլերեն"
+  },
+  "walletUserCoins": {
+    "name": "Անանա Վարդազարյան",
+    "joined": "Ամսաթիվ 2023-06-01",
+    "totalCoins": "1200"
+  },
+  "tables": {
+    "title": {
+      "EarningsHistory": "Եկամտի պատմություն",
+      "CoinsEarnedByStore": "Խանութի կողմից վաստակված մետաղադրամներ"
+    }
+  },
+  "footer": {
+    "totalEarnedOne": "Ընդամենը",
+    "totalEarnedCoinsOne": "1200",
+    "totalEarnedTwo": "Ընդամենը",
+    "totalEarnedCoinsTwo": "1200"
+  },
+  "walletTableOne": {
+    "InviteFriends": "Հրավիրեք ընկերներին",
+    "Purchase": "Գնում",
+    "title": "Առաքման պատմություն",
+    "head": {
+      "store": "Խանութ",
+      "date": "Ամսաթիվ",
+      "action": "Գործողություն",
+      "coin": "Coins"
+    },
+    "1": {
+      "store": "Zara",
+      "date": "2024-06-11",
+      "action": "Հրավիրեք ընկերներին",
+      "coins": "20"
+    },
+    "2": {
+      "store": "Nike",
+      "date": "2024-06-09",
+      "action": "Գնում",
+      "coins": "100"
+    }
+  },
+  "walletTableTwo": {
+    "title": "Առաքման պատմություն",
+    "1": {
+      "store": "Zara",
+      "zaraCoins": "240",
+      "city": "City",
+      "cityCoins": "180"
+    },
+    "2": {
+      "store": "Nike",
+      "nikeCoins": "180",
+      "transport": "Transport",
+      "transportCoins": "120"
+    },
+    "totalEarnedOne": "Առաքման արդյունք",
+    "totalEarnedCoinsOne": "1200",
+    "totalEarnedTwo": "Առաքման արդյունք",
+    "totalEarnedCoinsTwo": "1200"
+  },
+  "hero": {
+    "whyJoinUs": "Ինչո՞ւ միանալ մեզ",
+    "title": "Մեր գլխավոր հովանավորը",
+    "showcase": "Մասնակիցներ"
+  },
+  "signUpForm": {
+    "title": "Գրանցվել",
+    "email": "Էլ. հասցիկ",
+    "nameSurname": "Անուն Ազգանուն",
+    "birthDate": "Ամսաթիվ",
+    "phoneNumber": "Հեռախոսահամար",
+    "password": "Գաղնաբառ",
+    "confirmPassword": "Կրկնել գաղնաբառ",
+    "nextButton": "Հաջորդ",
+    "agree": "Համաձայն եմ",
+    "privacyPolicy": "Գաղտնիության քաղաքականություն"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "deliveryText": "Free Delivery in Yerevan",
+  "signOut": "Sign out",
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "partnerShops": "Partner shops",
+    "transportYerevan": "Transport Yerevan",
+    "taxi": "Taxi",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "languages": {
+    "armenian": "Armenian",
+    "english": "English"
+  },
+  "walletUserCoins": {
+    "name": "Anna Vardazaryan ",
+    "joined": "Joined June 2023",
+    "totalCoins": "1200"
+  },
+  "tables": {
+    "title": {
+      "EarningsHistory": "Earnings History",
+      "CoinsEarnedByStore": "Coins Earned By Store"
+    }
+  },
+  "footer": {
+    "totalEarnedOne": "Total Earned",
+    "totalEarnedCoinsOne": "1200",
+    "totalEarnedTwo": "Total Earned",
+    "totalEarnedCoinsTwo": "1200"
+  },
+  "walletTableOne": {
+    "Purchase": "Purchase",
+    "head": {
+      "title": "Earnings History",
+      "store": "Store",
+      "date": "Date",
+      "action": "Action",
+      "coin": "Coins"
+    },
+    "1": {
+      "store": "Zara",
+      "date": "2024-06-11",
+      "action": "Invite Friends",
+      "coins": "20"
+    },
+    "2": {
+      "store": "Nike",
+      "date": "2024-06-09",
+      "action": "Purchase",
+      "coins": "100"
+    }
+  },
+  "walletTableTwo": {
+    "1": {
+      "store": "Zara",
+      "zaraCoins": "240",
+      "city": "City",
+      "cityCoins": "180"
+    },
+    "2": {
+      "store": "Nike",
+      "nikeCoins": "180",
+      "transport": "Transport",
+      "transportCoins": "120"
+    },
+    "totalEarnedOne": "Total Earned",
+    "totalEarnedCoinsOne": "1200",
+    "totalEarnedTwo": "Total Earned",
+    "totalEarnedCoinsTwo": "1200"
+  },
+  "hero": {
+    "whyJoinUs": "Why Join Us/Why Join The Comunity?",
+    "title": "Our Main Sponsor",
+    "showcase": "Showcase"
+  },
+  "signUpForm": {
+    "title": "Sign Up",
+    "email": "Email",
+    "nameSurname": "Name Surname",
+    "birthDate": "BirthDate",
+    "phoneNumber": "Phone",
+    "password": "Password",
+    "confirmPassword": "Repeat password",
+    "nextButton": "Next",
+    "agree": "I agree to the",
+    "privacyPolicy": "Privacy Policy"
+  }
+}
