@@ -11,7 +11,6 @@ interface Props {
 
 export const Header: React.FC<Props> = (props) => {
   const { className } = props;
-  // barev Shant jan
   const t = useTranslations();
 
   return (
