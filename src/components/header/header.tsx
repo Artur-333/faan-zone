@@ -12,7 +12,7 @@ interface Props {
 export const Header: React.FC<Props> = (props) => {
   const { className } = props;
   const t = useTranslations();
-
+  
   return (
     <>
       <p className="text-center px-4 py-0.5">{t("deliveryText")}</p>
