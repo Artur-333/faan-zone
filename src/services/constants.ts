@@ -1,4 +1,4 @@
 export enum ApiRoutes {
-  HEADER = '/header',
-  BANNER = '/banner',
+  HEADER = "/header",
+  BANNER = "/banner",
 }
