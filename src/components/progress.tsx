@@ -15,7 +15,7 @@ export const Progress: React.FC<ProgressProps> = ({
     indicatorClassName,
 }) => {
     const progressValue = value;
-    const progressPercentage = Math.max(0, (progressValue / 100000) * 1000);
+    const progressPercentage = Math.max(0, (progressValue / 10000) * 100);
 
     return (
         <div>

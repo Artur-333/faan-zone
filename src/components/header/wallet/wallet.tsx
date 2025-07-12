@@ -49,7 +49,7 @@ export const Wallet: React.FC<Props> = (props) => {
                 </span>
               </div>
             </div>
-            <Progress value={7000} />
+            <Progress value={3000} />
           </div>
           <WalletTable />
         </DialogHeader>
