@@ -16,6 +16,7 @@ export async function GET() {
           id: 3,
           img: "/img/parma.jpg"
         },
+        
         {
           id: 4,
           img: "/img/armenian-wine.jpg"
