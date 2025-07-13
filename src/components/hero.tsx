@@ -3,7 +3,6 @@ import React from "react";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
-import { SignUpForm } from "./sign-up-form";
 
 interface Props {
   className?: string;
